@@ -1,0 +1,2 @@
+- **Sep 4, 2022**
+- hadoop, neo4j, python - data ingestion + machine learning
